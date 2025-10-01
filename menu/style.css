@@ -1,0 +1,19 @@
+#navegacao {
+    width: 720px;
+    background-color: #0039f3;
+    /* removendo o * da lista */
+    list-style: none;
+    float: left;
+}
+
+#navegacao li {
+    float: left;
+}
+
+#navegacao a {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    line-height: 30px;
+    padding: 0 20px;
+}

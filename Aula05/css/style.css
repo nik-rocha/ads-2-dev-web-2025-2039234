@@ -1,0 +1,25 @@
+* {
+    color: black;
+}
+
+h1, p {
+    color: gray;
+}
+
+.bloco2 div h2 {
+    color: red;
+    font-weight: bold;
+}
+
+.bloco2 .formatacao {
+    color: black
+}
+
+.bloco3 div .formatacao_prod_1 a {
+    text-decoration: none;
+    color: aqua;
+}
+
+#saiba_prod_1 a {
+    color: blue;
+}
